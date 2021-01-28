@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vtn/Zx7OnhSaY5JKupz6vP7q6UNcallty4OuXkt8xdQ6XzuQxewtWh9tOXxRgCMMTHtsHzVWUVRIB5Obn9nvag==",
+  "success": true,
+  "projectFilePath": "/Users/jocelynesanchez/Desktop/CS 133 Projects/CS_133_Projects/CS_133_Projects/CS_133_Projects.csproj",
+  "expectedPackageFiles": [
+    "/Users/jocelynesanchez/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
